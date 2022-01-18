@@ -10,4 +10,4 @@
 
 ## 💻 About
 
-This is a simple CountDown
+This is a real time CountDown
