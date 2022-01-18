@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    color: #fff;
+    font-size: 12px;
+    justify-content: center;
+    display: flex;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+}
+
+.countdown-container {
+    display: flex;
+}
+
+.big-text {
+    font-size: 4.5rem
+}
+
+span {
+    font-size: 1rem;
+}
